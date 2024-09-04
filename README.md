@@ -23,9 +23,10 @@ Below are the instructions for this assignment. Your repository should automatic
 ### 📝 TODO: Complete this section
 
 * **Your name and PID**:
-
+Ian Yoon - iany25
 * **Your partner's name and PID:**
-
+Nathan Le - nathanle
 * **Link to selected coding challenge:**
-
+https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75
 * **Summary of partner's interview feedback:**
+I should complete more leetcode problems to gain more confidence. 
